@@ -15,7 +15,7 @@ Los participantes tienen perfiles personalizados con información como su **nomb
 - **Búsqueda y filtros** para encontrar Kanyes por país o ciudad.
 - **Desafíos 1 vs 1** entre usuarios.
 
-  ## Tecnologías Utilizadas
+## Tecnologías Utilizadas
 ### **Frontend**
 - **HTML** → Estructura de la web.
 - **SCSS + Bootstrap** → Estilización y diseño responsive.
