@@ -15,6 +15,15 @@ Los participantes tienen perfiles personalizados con información como su **nomb
 - **Búsqueda y filtros** para encontrar Kanyes por país o ciudad.
 - **Desafíos 1 vs 1** entre usuarios.
 
+## Objetivos del Proyecto
+- **Desarrollar una red social temática** utilizando tecnologías modernas.
+- **Implementar un sistema de votación interactivo** basado en AJAX y Laravel.
+- **Crear una mecánica de ranking y competencia** entre usuarios.
+- **Aplicar buenas prácticas de diseño UX/UI** con SCSS y Bootstrap.
+- **Optimizar el rendimiento del sitio** para manejar múltiples usuarios y votaciones en tiempo real.
+- **Aprender sobre gestión de bases de datos** con MySQL y Laravel.
+- **Implementar un sistema de autenticación seguro** para proteger los datos de los usuarios.
+
 ## Tecnologías Utilizadas
 ### **Frontend**
 - **HTML** → Estructura de la web.
