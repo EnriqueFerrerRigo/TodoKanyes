@@ -2,9 +2,11 @@
 
 # Título: TodoKanyes
 
-# Descripción de la idea
+## Descripción de la idea
 **TodoKanye** es una red social única donde solo participan personas que creen parecerse a **Kanye West**. Los usuarios suben sus fotos y compiten en un **sistema de votaciones** para determinar quién es el Kanye más auténtico. 
 Los participantes tienen perfiles personalizados con información como su **nombre real, edad, ubicación y una breve descripción** de por qué creen que son el Kanye definitivo.
+
+## Funcionalidades
 - **Subida de fotos** para participar en las votaciones.
 - **Sistema de votación** donde los usuarios eligen entre dos "Kanyes".
 - **Ranking en tiempo real** con los Kanyes más votados.
