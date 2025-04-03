@@ -17,7 +17,7 @@ Los participantes tienen perfiles personalizados con información como su **nomb
 
 ## Objetivos del Proyecto
 - **Desarrollar una red social temática** utilizando tecnologías modernas.
-- **Implementar un sistema de votación interactivo** basado en AJAX y Laravel.
+- **Implementar un sistema de votación interactivo** basado en Laravel (a lo mejor AJAX).
 - **Crear una mecánica de ranking y competencia** entre usuarios.
 - **Aplicar buenas prácticas de diseño UX/UI** con SCSS y Bootstrap.
 - **Optimizar el rendimiento del sitio** para manejar múltiples usuarios y votaciones en tiempo real.
